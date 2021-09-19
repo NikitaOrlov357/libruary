@@ -1,8 +1,7 @@
 package com.company;
 
-public class Main {
-
+public class B {
     public static void main(String[] args) {
-	// write your code here
+        System.out.println("qq");
     }
 }
